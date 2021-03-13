@@ -1,0 +1,21 @@
+.imge{
+    margin-top: 3%;
+    height: 19vh;
+    background: rgb(114 118 125);
+    width: 12%;
+    display: block;
+    margin-left: 40%;
+    border-radius: 60%;
+}
+.details{
+    display: flex;
+}
+.compon{
+    display: inline-block;
+    height: 10vh;
+    text-align: center;
+    padding: 62px 22px 25px 20px;
+}
+.urls{
+    padding: 11px 25px 14px 18px
+}

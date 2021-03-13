@@ -1,0 +1,18 @@
+.form{
+    padding-left: 20vw;
+    padding-top: 0vh;
+    margin-top: -1vh;
+}
+.textbar{
+    height: 5vh;
+    width: 45vw;
+    border-width: thick;
+    font-size:19px
+    
+}
+.button{
+    height: 6vh;
+    border-width: thick;
+    margin: 1px;
+    width:10vh;
+}

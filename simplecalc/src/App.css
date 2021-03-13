@@ -1,0 +1,16 @@
+.App{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+
+}
+.calc-wrappper{
+    height: 600px;
+    width: 400px;
+}
+.row{
+    display: flex;
+    width:300%;
+}
